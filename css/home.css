@@ -28,3 +28,12 @@ h1 {
 #color2 {
   //background-color: #7a7b90;
 }
+
+.bw-background{
+  background-color: black;
+  color: white;
+}
+.original-background{
+  background-color: #bbb2a3;
+  color: #545d32;
+}
